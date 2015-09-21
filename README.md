@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Git Prompt Preview](https://raw.github.com/xhs/git-prompt/master/preview.png)
+![Git Prompt Preview](https://raw.github.com/xhs/git-prompt/master/preview.png =400x)
 
 ## Installation
 
