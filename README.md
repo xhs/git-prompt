@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Git Prompt Preview](https://raw.github.com/xhs/git-prompt/master/preview.png =400x)
+<img src="https://raw.github.com/xhs/git-prompt/master/preview.png" alt="Git Prompt Preview" style="width: 400px;"/>
 
 ## Installation
 
