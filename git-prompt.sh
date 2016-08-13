@@ -4,9 +4,9 @@ get_git_branch() {
       if [[ "$branch" == "HEAD" ]]; then
         branch='detached*'
       fi
-      git_branch="($branch)"
+      git_branch="git:$branch"
     else
-      git_branch="(none)"
+      git_branch=$'\b \b'
     fi
 }
 
